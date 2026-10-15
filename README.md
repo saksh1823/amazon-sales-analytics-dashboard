@@ -30,7 +30,7 @@ Add the actual findings from your analysis here.
 
 ## Dashboard Preview
 
-A screenshot of the completed dashboard will be added here.
+![Amazon Sales Analytics Dashboard](dashboard.png)
 
 ## Author
 
